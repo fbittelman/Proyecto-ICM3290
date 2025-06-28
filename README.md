@@ -1,0 +1,1 @@
+Este repositorio contiene el desarrollo de un modelo hidráulico aplicado al sistema de abastecimiento de agua caliente sanitaria en un edificio habitacional de 80 departamentos y 10 pisos. El proyecto incluye el dimensionamiento de tuberías, cálculo de pérdidas de carga, análisis de simultaneidad y selección de bombas, implementado mediante un Jupyter Notebook.
